@@ -11,7 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "@apollo/server": "^4.12.1",
-    "graphql": "^16.11.0"
+    "graphql": "^16.11.0",
+    "pg": "^8.16.0",
+    "reflect-metadata": "^0.2.2",
+    "type-graphql": "^2.0.0-rc.2",
+    "typeorm": "^0.3.24"
   },
   "description": "",
   "type": "module",
