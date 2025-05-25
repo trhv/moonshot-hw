@@ -18,7 +18,6 @@
     "typeorm": "^0.3.24"
   },
   "description": "",
-  "type": "module",
   "devDependencies": {
     "@types/node": "^22.15.21",
     "typescript": "^5.8.3"

@@ -18,8 +18,8 @@ services:
       - db
     environment:
       - NODE_ENV=production
-    # ports:
-    #   - "4000:4000"
+    ports:
+      - "4000:4000"
     deploy:
       replicas: 1
     restart: always
